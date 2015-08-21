@@ -4,7 +4,7 @@
   "description": "White space margin and padding utilities module for Basscss",
   "repository": {
     "type": "git",
-    "url": "https://github.com/basscss/utility-white-space.git"
+    "url": "https://github.com/basscss/white-space.git"
   },
   "keywords": [
     "CSS",
@@ -15,9 +15,9 @@
   "author": "Brent Jackson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/basscss/utility-white-space/issues"
+    "url": "https://github.com/basscss/white-space/issues"
   },
-  "homepage": "https://github.com/basscss/utility-white-space",
+  "homepage": "https://github.com/basscss/white-space",
   "dependencies": {
     "basscss-defaults": "^2.0.1"
   }
